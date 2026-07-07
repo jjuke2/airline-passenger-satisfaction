@@ -1,4 +1,4 @@
-[README_airline_satisfaction.md](https://github.com/user-attachments/files/29753873/README_airline_satisfaction.md)
+
 # Predicting Airline Customer Satisfaction
 
 Logistic regression on 25,976 passenger survey records — quantifying which cabin, loyalty, and service factors actually move satisfaction, and whether upgrading economy food service would pay off.
